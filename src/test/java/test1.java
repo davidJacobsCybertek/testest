@@ -16,5 +16,6 @@ public class test1 {
         //last code
         //Zina coding with Akbar
         //552//
+        //hard coding
     }
 }
